@@ -1,0 +1,42 @@
+Mission Name           - Operation Gungriffon
+-------------------------------------------------------------
+
+Mission Map            - Chernarus Redux (post-apo version)
+
+Mission File           - Chernarus_dron.chernarusredux
+
+Mission Modlist        - Havran_modlist
+
+Mission Side           - Blufor / NATO (custom non-choosable loadout)
+
+Mission Start          - Northern Airfield (Krasnostav)
+
+Mission Story          - You are tasked with invading Chernarus. Your goal, is to clear the land from the North to South and kill the dictator in the Capital City of Chernogorsk.
+                         But, there is a threat that makes this goal impossible - cutting edge weapon system - AWGS HIGH-MACS (Armored Walking Gun Systems). Your first mission
+                         is capturing enemy next-gen tech - walking mecha-dron with flight capabilities and deadly firepower. You will play NATO forces attacking from 
+                         the north of Chernarus. Your forces captured Northern airfield, and the near town of Krasnostav, where your army prepares for full on invasion, 
+                         but there are a few things standing in your way - mostly the new weapon system. If you are to succeed in this invasion, you have to capture it first. 
+                         Your forces are grounded on the Northern airfield, until you dissable radar station, AA defence systems on the airfield and take full control of the Mech.
+
+Mission Objective      - Reach Main Airfield (Grishino)
+                       - Capture Opfor next-gen tech (Armored Walking Gun Systems)
+                       - Fly it safely back to base for reverse engineering
+                  
+                  
+Mission sideobjectives - Destroy small outposts on the way (Optional)
+                       - Destroy armoured outpost & Collect info about Airfield AA Defence system (Location near Gvozno)
+                       - Destroy Helicopter Reinforcements (Automatic spawn)
+                       - Destroy Radar outpost (Devil's Castle)
+                       - Destroy AA Defence system on Airfield 
+                       
+Mission Completed      - Succesfully landed AWGS on dedicated landing spot in Krasnostav Airfield
+
+Mission Failed         - AAWGS destroyed
+
+Mission Tasks failed   - Did not collect AA location intel and left area (possible danger for flying mech)
+                       - Intel collected back by helicopter reinforcements (possible danger for flying mech)
+                       - Did not destroy Radar base (Air support attack from southern Balota airfield when attacking main airfield)
+                       
+Mission Respawn        - Main base in waves every 5 minutes
+
+Player capacity        - 24 max (3 squads of 8 players)
