@@ -1,15 +1,16 @@
 Mission Name           - Operation Gungriffon
 -------------------------------------------------------------
 
-Mission Map            - Chernarus Redux (post-apo version)
+Mission Map            - Chernarus 2020
 
-Mission File           - Chernarus_dron.chernarusredux
+Mission File           - Chernarus2020.cup_chernarus_A3
 
-Mission Modlist        - Havran_modlist
+Mission Modlist        - 37RMS_Havran
 
-Mission Side           - Blufor / NATO (custom non-choosable loadout)
+Mission Side           - OPFOR / Russia (custom non-choosable loadout)
 
-Mission Start          - Northern Airfield (Krasnostav)
+Mission Start          - Northern Shore
+_________________________________________________________________________________
 
 Mission Story          - You are tasked with invading Chernarus. Your goal, is to clear the land from the North to South and kill the dictator in the Capital City of Chernogorsk.
                          But, there is a threat that makes this goal impossible - cutting edge weapon system - AWGS HIGH-MACS (Armored Walking Gun Systems). Your first mission
@@ -39,4 +40,4 @@ Mission Tasks failed   - Did not collect AA location intel and left area (possib
                        
 Mission Respawn        - Main base in waves every 5 minutes
 
-Player capacity        - 24 max (3 squads of 8 players)
+Player capacity        - 24 max (4 squads of 6 players)
