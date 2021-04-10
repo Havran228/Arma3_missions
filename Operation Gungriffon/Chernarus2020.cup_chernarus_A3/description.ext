@@ -1,0 +1,17 @@
+author = "Havran228";
+briefingName = "Operace Gungriffon, Part 1";
+onLoadName = "Operace Gungriffon, Part 1";
+onLoadMission = "Jednotky Spetsnaz sa zúčastnia ofenzívnej operácie na severe Chernarusi. Cieľom je zničiť raketovú obranu letiska Krasnostav a obsadiť letisko. V druhej časti operácie potom z tohto bodu bude armáda postupovať na letisko Vybor s cieľom zabaviť tajný vojenský projekt AWGS.";
+
+
+respawn = 3;
+respawnDelay = 20;
+respawnVehicleDelay = 20;
+respawnTemplatesWest[] = {"MenuPosition"};
+respawnTemplatesEast[] = {"MenuPosition"};
+respawnTemplatesGuer[] = {"MenuPosition"};
+respawnDialog = true;
+respawnOnStart = 0;
+disabledAI = 1;
+joinUnassigned = 1;
+aiKills = 1;
